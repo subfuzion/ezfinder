@@ -8,6 +8,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
+    "node": "0.10.x",
+    "npm":  "1.2.x",
     "express": "3.2.6",
     "jade": "*"
   },
