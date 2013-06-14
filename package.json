@@ -1,0 +1,36 @@
+{
+  "name": "ezfinder",
+  "version": "0.0.0",
+  "description": "API to help citizens find free and low-cost health clinics, Section 8 housing, and stores that accept SNAP (food stamp) cards.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "3.2.6",
+    "jade": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tonypujals/ezfinder.git"
+  },
+  "keywords": [
+    "gsa",
+    "federal",
+    "open data",
+    "open source",
+    "health",
+    "housing",
+    "section 8",
+    "snap",
+    "food stamps"
+  ],
+  "author": "Tony Pujals",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "128710c516a465c32dcf7143c4e2649947add0fd",
+  "bugs": {
+    "url": "https://github.com/tonypujals/ezfinder/issues"
+  }
+}
