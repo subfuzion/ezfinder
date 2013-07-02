@@ -1,7 +1,7 @@
 ezfinder
 ========
 
-http://tonypujals.github.io/ezfinder/
+http://ezfinder.nodehost.io/
 
 API to help citizens find free and low-cost health clinics, Section 8 housing, and stores that accept SNAP (food stamp) cards.
 
